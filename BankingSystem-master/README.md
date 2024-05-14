@@ -10,10 +10,6 @@ The Banking System is a Java Swing application that simulates basic banking oper
 - Transaction history
 - User-friendly GUI with Java Swing
 
-## Screenshots
-![Screenshot 1](screenshot/1.png)
-![Screenshot 2](screenshot/2.png)
-
 ## Technologies Used
 - Java
 - Java Swing for GUI
